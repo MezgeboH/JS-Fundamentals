@@ -6,5 +6,5 @@ if(isNaN(parseInt(arg)))
 }
 else 
 {
-    console.log("My number:" +parseInt(arg));
+    console.log("My number: " + parseInt(arg));
 }
