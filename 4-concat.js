@@ -1,6 +1,6 @@
 if(process.argv[2] === undefined)
 {
-	console.log(" Undefined is undefined");
+	console.log("undefined is undefined");
 }
 else if(process.argv[3] === undefined)
 {
